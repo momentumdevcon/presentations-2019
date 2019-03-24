@@ -10,3 +10,8 @@
 * [Quantum Computing Deep Dive](https://github.com/Djohnnie/QuantumComputingQSharpIntroduction2018) - [Johnny Hooyberghs (@djohnnieke)](https://twitter.com/djohnnieke)
 
 * [Building an educational game using ASP.NET Core, the Microsoft Compiler Platform Roslyn and Unity](https://github.com/Djohnnie/CSharpWars) - [Johnny Hooyberghs (@djohnnieke)](https://twitter.com/djohnnieke)
+
+* [Jasmine Testing to the Rescue! - Chris Steele](https://www.slideshare.net/ChristopherSteele18/jasmine-testing-to-the-rescue)
+  * [GitHub repo for presentation](https://github.com/csteele86/ko-calculator)
+  * [Twitter - @csteele86](https://twitter.com/csteele86)
+  * [LinkedIn](https://www.linkedin.com/in/christopherbsteele/)  
