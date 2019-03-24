@@ -1,0 +1,2 @@
+The move to GraphQL marked a larger shift in GitHub's Platform strategy towards more transparency and more flexibility in our API. Over the past year, GitHub has been iterating on their schema to bring it closer towards feature completeness and strengthening the use for 3rd party integrators. Join me in walking through some of the newer ways developers are leveraging our API primitives and benefiting from GraphQL adoption into their development workflow.
+
