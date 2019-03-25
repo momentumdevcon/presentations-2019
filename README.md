@@ -11,7 +11,9 @@
 
 * [Building an educational game using ASP.NET Core, the Microsoft Compiler Platform Roslyn and Unity](https://github.com/Djohnnie/CSharpWars) - [Johnny Hooyberghs (@djohnnieke)](https://twitter.com/djohnnieke)
 
+* [Building a Websocket Realtime API in Phoenix](https://speakerdeck.com/jwright/building-a-realtime-websocket-api-with-phoenix) - [Jamie Wright (@jwright)](https://twitter.com/jwright)
+
 * [Jasmine Testing to the Rescue! - Chris Steele](https://www.slideshare.net/ChristopherSteele18/jasmine-testing-to-the-rescue)
   * [GitHub repo for presentation](https://github.com/csteele86/ko-calculator)
   * [Twitter - @csteele86](https://twitter.com/csteele86)
-  * [LinkedIn](https://www.linkedin.com/in/christopherbsteele/)  
+  * [LinkedIn](https://www.linkedin.com/in/christopherbsteele/)
