@@ -17,3 +17,5 @@
   * [GitHub repo for presentation](https://github.com/csteele86/ko-calculator)
   * [Twitter - @csteele86](https://twitter.com/csteele86)
   * [LinkedIn](https://www.linkedin.com/in/christopherbsteele/)
+
+* [Learning at the Speed of JavaScript](https://github.com/momentumdevcon/presentations-2019/tree/master/learning-at-the-speed-of-javascript) - [Jake Witcher](https://twitter.com/codefornerds) 
