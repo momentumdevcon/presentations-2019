@@ -10,3 +10,5 @@
 * [Quantum Computing Deep Dive](https://github.com/Djohnnie/QuantumComputingQSharpIntroduction2018) - [Johnny Hooyberghs (@djohnnieke)](https://twitter.com/djohnnieke)
 
 * [Building an educational game using ASP.NET Core, the Microsoft Compiler Platform Roslyn and Unity](https://github.com/Djohnnie/CSharpWars) - [Johnny Hooyberghs (@djohnnieke)](https://twitter.com/djohnnieke)
+
+* [Learning at the Speed of JavaScript](https://github.com/momentumdevcon/presentations-2019/tree/master/learning-at-the-speed-of-javascript) - [Jake Witcher](https://twitter.com/codefornerds) 
