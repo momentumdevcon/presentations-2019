@@ -19,3 +19,5 @@
   * [LinkedIn](https://www.linkedin.com/in/christopherbsteele/)
 
 * [Learning at the Speed of JavaScript](https://github.com/momentumdevcon/presentations-2019/tree/master/learning-at-the-speed-of-javascript) - [Jake Witcher](https://twitter.com/codefornerds) 
+
+* [Prometheus: Monitoring and Alerting for Everyone](https://github.com/momentumdevcon/presentations-2019/tree/master/prometheus-monitoring-and-alerting-for-everyone) - [Aaron Brongermsa](https://twitter.com/Abrongersma), [Ken Herner](https://twitter.com/kenXengineering)
